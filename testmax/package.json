@@ -1,0 +1,11 @@
+{
+  "name": "testmax",
+  "version": "1.0.0",
+  "description": "for testing or learning",
+  "main": "dont know",
+  "scripts": {
+    "test": "t"
+  },
+  "author": "",
+  "license": "ISC"
+}

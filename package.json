@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/shashankpatil125/learn-db-json-fetch-apis#readme",
   "dependencies": {
+    "event": "^1.0.0",
     "superhero": "^2.12.1"
   }
 }
